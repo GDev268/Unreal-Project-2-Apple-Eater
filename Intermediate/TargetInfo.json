@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BigEater",
+			"Path": "E:\\Unreal Projects\\2-Fruit_Eater\\BigEater\\Source\\BigEater.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BigEaterEditor",
+			"Path": "E:\\Unreal Projects\\2-Fruit_Eater\\BigEater\\Source\\BigEaterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

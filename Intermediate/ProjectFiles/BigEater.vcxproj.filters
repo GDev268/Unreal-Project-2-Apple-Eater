@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BigEater.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DD1CBE9D-2B5A-48B8-9ED7-A2E70F4C6632}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BigEater.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BigEaterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FE36001E-DA2F-4A70-B2F4-36A85A53FF13}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BigEater">
+      <UniqueIdentifier>{EA1DE78F-92BB-4C17-954F-B4981E2E9127}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BigEater\BigEater.Build.cs">
+      <Filter>Source\BigEater</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BigEater\BigEater.cpp">
+      <Filter>Source\BigEater</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BigEater\BigEater.h">
+      <Filter>Source\BigEater</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BigEater\BigEaterCharacter.cpp">
+      <Filter>Source\BigEater</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BigEater\BigEaterCharacter.h">
+      <Filter>Source\BigEater</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BigEater\BigEaterGame.cpp">
+      <Filter>Source\BigEater</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BigEater\BigEaterGame.h">
+      <Filter>Source\BigEater</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BigEater\BigEaterGameMode.cpp">
+      <Filter>Source\BigEater</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BigEater\BigEaterGameMode.h">
+      <Filter>Source\BigEater</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BigEater\MainCharacter.cpp">
+      <Filter>Source\BigEater</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BigEater\MainCharacter.h">
+      <Filter>Source\BigEater</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

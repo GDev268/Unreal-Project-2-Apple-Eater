@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projects\\2-Fruit_Eater\\BigEater\\Source\\BigEater\\BigEater.Build.cs",
+		"E:\\Unreal Projects\\2-Fruit_Eater\\BigEater\\Source\\BigEater.Target.cs",
+		"E:\\Unreal Projects\\2-Fruit_Eater\\BigEater\\Source\\BigEaterEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

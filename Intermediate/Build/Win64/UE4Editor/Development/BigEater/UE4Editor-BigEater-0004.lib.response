@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BigEater-0004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\2-Fruit_Eater\BigEater\Intermediate\Build\Win64\BigEaterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Projects\2-Fruit_Eater\BigEater\Intermediate\Build\Win64\UE4Editor\Development\BigEater\BigEater.cpp.obj"
+"E:\Unreal Projects\2-Fruit_Eater\BigEater\Intermediate\Build\Win64\UE4Editor\Development\BigEater\BigEaterCharacter.cpp.obj"
+"E:\Unreal Projects\2-Fruit_Eater\BigEater\Intermediate\Build\Win64\UE4Editor\Development\BigEater\BigEaterGame.cpp.obj"
+"E:\Unreal Projects\2-Fruit_Eater\BigEater\Intermediate\Build\Win64\UE4Editor\Development\BigEater\BigEaterGameMode.cpp.obj"
+"E:\Unreal Projects\2-Fruit_Eater\BigEater\Intermediate\Build\Win64\UE4Editor\Development\BigEater\MainCharacter.cpp.obj"
+"E:\Unreal Projects\2-Fruit_Eater\BigEater\Intermediate\Build\Win64\UE4Editor\Development\BigEater\BigEater.init.gen.cpp.obj"
+"E:\Unreal Projects\2-Fruit_Eater\BigEater\Intermediate\Build\Win64\UE4Editor\Development\BigEater\BigEaterCharacter.gen.cpp.obj"
+"E:\Unreal Projects\2-Fruit_Eater\BigEater\Intermediate\Build\Win64\UE4Editor\Development\BigEater\BigEaterGame.gen.cpp.obj"
+"E:\Unreal Projects\2-Fruit_Eater\BigEater\Intermediate\Build\Win64\UE4Editor\Development\BigEater\BigEaterGameMode.gen.cpp.obj"
+"E:\Unreal Projects\2-Fruit_Eater\BigEater\Intermediate\Build\Win64\UE4Editor\Development\BigEater\MainCharacter.gen.cpp.obj"
+"E:\Unreal Projects\2-Fruit_Eater\BigEater\Intermediate\Build\Win64\UE4Editor\Development\BigEater\Default.rc2.res"
+/OUT:"E:\Unreal Projects\2-Fruit_Eater\BigEater\Intermediate\Build\Win64\UE4Editor\Development\BigEater\UE4Editor-BigEater-0004.lib"
